@@ -44,7 +44,7 @@ Criteria were extracted from the official *Parameter Scoping* document, with rol
 - Selection logic applied dynamically on dataset
 
 ## 📸 Preview
-![Dashboard Screenshot](./image.png)
+![Dashboard Screenshot](./dashboard.png)
 
 ## 🔗 Connect With Me
 Feel free to connect and explore more:
